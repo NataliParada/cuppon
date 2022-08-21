@@ -1,0 +1,14 @@
+
+.card{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    width: auto;
+}
+
+.card-text{
+    color: #707070;
+}
+
+.footer{
+    color: #707070;
+}
